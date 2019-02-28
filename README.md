@@ -12,7 +12,7 @@ Additionally, you can **migrate your contracts to Solidity 5 without needing to 
 
 ## Installation
 ```
-npm install @nomiclabs/buidler-truffle4 web3@^0.20.7
+npm install @nomiclabs/buidler-truffle4 @nomiclabs/buidler-web3-legacy web3@^0.20.7
 ```
 
 And add the following require to the top of your ```buidler.config.js```:
