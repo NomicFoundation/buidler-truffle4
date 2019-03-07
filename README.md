@@ -19,6 +19,10 @@ And add the following require to the top of your ```buidler.config.js```:
 
 ```require("@nomiclabs/buidler-truffle4");```
 
+## Required plugins
+
+This plugin requires [buidler-web3-legacy](https://github.com/nomiclabs/buidler-web3-legacy) as a prerequisite.
+
 ## Tasks
 This plugin creates no additional tasks.
 
